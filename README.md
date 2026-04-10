@@ -7,5 +7,5 @@ Alternatively, if you run vt2vc.exe by double-clicking, the program will look fo
 Link to reddit post for more information:
 https://www.reddit.com/r/3Dprinting/comments/1s63ccq/way_to_import_obj_with_image_textures_in_slicer/
 
-Download .exe release file her:
+Download .exe release file here:
 https://github.com/Azidus/vt2vc/releases 
